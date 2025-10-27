@@ -126,7 +126,7 @@ This application leverages cutting-edge CSS features, particularly the OKLCH col
 
 ## 📧 Contact
 
-**Developer**: Adam Fennych  
+**Developer**: Adam EL Fennych  
 **Email**: [adamfennych07@gmail.com](mailto:adamfennych07@gmail.com)
 
 For inquiries, bug reports, or collaboration opportunities, please reach out via email.
