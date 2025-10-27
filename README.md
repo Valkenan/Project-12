@@ -23,6 +23,7 @@ Project-12/
 │   ├── Odéon.webp
 │   ├── Musée.jpg
 │   └── moussaka.jpg
+├── .gitignore         # Git ignore configuration
 └── README.md          # Project documentation
 ```
 
@@ -63,9 +64,23 @@ Direct email link for inquiries
 
 ## 🚀 Getting Started
 
-1. Clone or download this repository
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/Valkenan/Project-12.git
+   ```
 2. Open `index.html` in your web browser
 3. Navigate through the sections using the navbar
+
+## 📋 Git Configuration
+
+The project includes a `.gitignore` file that excludes:
+
+- Operating system files (`.DS_Store`, `Thumbs.db`, etc.)
+- Editor/IDE configuration files (`.vscode/`, `.idea/`, etc.)
+- Node modules and dependency files
+- Log files and temporary files
+- Build and distribution folders
+- Environment variable files
 
 ## 💻 Browser Support
 
